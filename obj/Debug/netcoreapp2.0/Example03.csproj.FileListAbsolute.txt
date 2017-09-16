@@ -1,0 +1,10 @@
+C:\Users\Yutaka\Documents\github\yutaka-megane\Example\bin\Debug\netcoreapp2.0\Example03.deps.json
+C:\Users\Yutaka\Documents\github\yutaka-megane\Example\bin\Debug\netcoreapp2.0\Example03.runtimeconfig.json
+C:\Users\Yutaka\Documents\github\yutaka-megane\Example\bin\Debug\netcoreapp2.0\Example03.runtimeconfig.dev.json
+C:\Users\Yutaka\Documents\github\yutaka-megane\Example\bin\Debug\netcoreapp2.0\Example03.dll
+C:\Users\Yutaka\Documents\github\yutaka-megane\Example\bin\Debug\netcoreapp2.0\Example03.pdb
+C:\Users\Yutaka\Documents\github\yutaka-megane\Example\obj\Debug\netcoreapp2.0\Example03.csproj.CoreCompileInputs.cache
+C:\Users\Yutaka\Documents\github\yutaka-megane\Example\obj\Debug\netcoreapp2.0\Example03.AssemblyInfoInputs.cache
+C:\Users\Yutaka\Documents\github\yutaka-megane\Example\obj\Debug\netcoreapp2.0\Example03.AssemblyInfo.cs
+C:\Users\Yutaka\Documents\github\yutaka-megane\Example\obj\Debug\netcoreapp2.0\Example03.dll
+C:\Users\Yutaka\Documents\github\yutaka-megane\Example\obj\Debug\netcoreapp2.0\Example03.pdb
